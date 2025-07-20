@@ -193,7 +193,7 @@ These images showcase how the AI Developer Assistant works seamlessly inside Tel
 |------------------|----------------------------|
 | ![Screenshot 1](Images/screenshot1.jpg) | ![Screenshot 2](Images/screenshot2.jpg) |
 
-| 📬 Sending Email | 🔀 Creating Pull Request |
+| 📬 Sending Email | 🌐 Web Search Responses |
 |------------------|---------------------------|
 | ![Screenshot 3](Images/screenshot3.jpg) | ![Screenshot 4](Images/screenshot4.jpg) |
 
