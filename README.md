@@ -1,7 +1,3 @@
-Here’s a professional, clear, and user-friendly **README.md** draft for your GitHub repository:
-
----
-
 # 🚀 AI-Powered Telegram Developer Assistant
 
 Your personalized **AI Developer Assistant** directly inside Telegram!
@@ -52,8 +48,8 @@ sudo apt install python3-venv -y
 ### 2️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/venkatanallamillikarthik/chatops-telegram-bot.git
+cd chatops-telegram-bot
 ```
 
 ### 3️⃣ Create & Activate Python Virtual Environment
