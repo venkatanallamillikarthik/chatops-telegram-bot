@@ -181,6 +181,37 @@ Now, Telegram messages will be received by your Flask app via Ngrok tunnel.
 
 ---
 
+## 📸 Example Screenshots
+
+Below are some example screenshots showing the bot in action. These images demonstrate how the AI Developer Assistant works inside Telegram.
+
+## 📸 Example Screenshots
+
+These images showcase how the AI Developer Assistant works seamlessly inside Telegram.
+
+| 📂 Repo Creation | ⚙️ Python Code Generation |
+|------------------|----------------------------|
+| ![Screenshot 1](images/screenshot1.jpg) | ![Screenshot 2](images/screenshot2.jpg) |
+
+| 📬 Sending Email | 🔀 Creating Pull Request |
+|------------------|---------------------------|
+| ![Screenshot 3](images/screenshot3.jpg) | ![Screenshot 4](images/screenshot4.jpg) |
+
+| 🎨 ASCII Art Output | 📊 Other Features |
+|---------------------|-------------------|
+| ![Screenshot 5](images/screenshot5.jpg) | ![Screenshot 6](images/screenshot6.jpg) |
+
+
+
+| 📂 Repo Creation | ⚙️ Python Code Generation |
+|------------------|----------------------------|
+![Screenshot 1](images/screenshot1.jpg)
+![Screenshot 2](images/screenshot2.jpg)
+![Screenshot 3](images/screenshot3.jpg)
+![Screenshot 4](images/screenshot4.jpg)
+![Screenshot 5](images/screenshot5.jpg)
+![Screenshot 5](images/screenshot6.jpg)
+
 ## 📊 Future Improvements
 
 * Add user authentication.
