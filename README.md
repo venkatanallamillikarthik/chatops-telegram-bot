@@ -120,7 +120,7 @@ Copy the generated HTTPS URL.
 Example:
 
 ```bash
-NGROK_URL=https://c350f08fccc1.ngrok-free.app
+NGROK_URL="Enter Ngrok URL"
 ```
 
 ---
