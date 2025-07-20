@@ -191,26 +191,16 @@ These images showcase how the AI Developer Assistant works seamlessly inside Tel
 
 | 📂 Repo Creation | ⚙️ Python Code Generation |
 |------------------|----------------------------|
-| ![Screenshot 1](images/screenshot1.jpg) | ![Screenshot 2](images/screenshot2.jpg) |
+| ![Screenshot 1](Images/screenshot1.jpg) | ![Screenshot 2](Images/screenshot2.jpg) |
 
 | 📬 Sending Email | 🔀 Creating Pull Request |
 |------------------|---------------------------|
-| ![Screenshot 3](images/screenshot3.jpg) | ![Screenshot 4](images/screenshot4.jpg) |
+| ![Screenshot 3](Images/screenshot3.jpg) | ![Screenshot 4](Images/screenshot4.jpg) |
 
 | 🎨 ASCII Art Output | 📊 Other Features |
 |---------------------|-------------------|
-| ![Screenshot 5](images/screenshot5.jpg) | ![Screenshot 6](images/screenshot6.jpg) |
+| ![Screenshot 5](Images/screenshot5.jpg) | ![Screenshot 6](Images/screenshot6.jpg) |
 
-
-
-| 📂 Repo Creation | ⚙️ Python Code Generation |
-|------------------|----------------------------|
-![Screenshot 1](images/screenshot1.jpg)
-![Screenshot 2](images/screenshot2.jpg)
-![Screenshot 3](images/screenshot3.jpg)
-![Screenshot 4](images/screenshot4.jpg)
-![Screenshot 5](images/screenshot5.jpg)
-![Screenshot 5](images/screenshot6.jpg)
 
 ## 📊 Future Improvements
 
